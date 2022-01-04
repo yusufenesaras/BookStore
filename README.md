@@ -1,4 +1,10 @@
-<h1>With your e-commerce site, you can set up an online book site and be the first to buy in the sector.</h1>
+<h3>You can see some parts of the project: <br/>
+Number of pages<br/>
+Author name<br/>
+Translator name<br/>
+The date of the first publication of the book / the number of editions<br/>
+short summary of the book<br/>
+Publisher</h3>
 
 ## :toolbox: Used Technologies
 
