@@ -1,10 +1,10 @@
 <h3>You can see some parts of the project: <br/>
-Number of pages<br/>
-Author name<br/>
-Translator name<br/>
-The date of the first publication of the book / the number of editions<br/>
-short summary of the book<br/>
-Publisher</h3>
+-Number of pages<br/>
+-Author name<br/>
+-Translator name<br/>
+-The date of the first publication of the book / the number of editions<br/>
+-short summary of the book<br/>
+-Publisher</h3>
 
 ## :toolbox: Used Technologies
 
