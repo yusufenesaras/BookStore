@@ -1,6 +1,6 @@
-## :toolbox : <h1>With your e-commerce site, you can set up an online book site and be the first to buy in the sector.</h1>
+<h1>With your e-commerce site, you can set up an online book site and be the first to buy in the sector.</h1>
 
-## :toolbox: Kullanılan Teknolojiler 
+## :toolbox: Used Technologies
 
 <summary><strong><i> Lombok </i></strong></summary>  
 <img src="https://user-images.githubusercontent.com/74687192/120121939-ba5c1800-c1ae-11eb-8327-67e22b7c7664.png" width="15%" height="15%" />
@@ -48,4 +48,4 @@
 ---
 
 <summary><strong><i> Rest Api </i></strong></summary>   
-<img src="https://lh3.googleusercontent.com/proxy/Df7ID52i1_L6CeMzpmataO4O6jBkZjWpL-7JPZ4t4hC72WR9rff3KiCKhlr5Xi49CuWmCN5Q0SXwXOMWFeEpqt4Nm0IknF3I36i7WdGjF3hbRfVifgADEVhgIwgwJZhTofg" width="15%" height="15%" />
+<img src="https://lh3.googleusercontent.com/proxy/Df7ID52i1_L6CeMzpmataO4O6jBkZjWpL-7JPZ4t4hC72WR9rff3KiCKhlr5Xi49CuWmCN5Q0SXwXOMWFeEpqt4Nm0IknF3I36i7WdGjF3hbRfVifgADEVhgIwgwJZhTofg" width="35%" height="25%" />
