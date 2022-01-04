@@ -43,9 +43,14 @@ Publisher</h3>
 
 ---
 
+<summary><strong><i> Javascript </i></strong></summary>   
+<img src="https://leanhtien.net/wp-content/uploads/2019/06/javascript.png" width="15%" height="15%" />
+
+---
+
 <summary><strong><i> React </i></strong></summary>   
 <img src="https://miro.medium.com/max/900/1*OVp9IRJaZ9jtOn7EEoYyGA.png" width="15%" height="15%" />
-
+ 
 ---
 
 <summary><strong><i> Material UI </i></strong></summary>   
