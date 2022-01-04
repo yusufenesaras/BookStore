@@ -1,0 +1,10 @@
+.imgZoom{
+    padding: 50px;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  .imgZoom:hover {
+    transform: scale(1.5); 
+}
